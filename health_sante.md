@@ -14,8 +14,9 @@ Features | Objets
 ------------------------------------ | -------------------------------------
 Health facilities (hospital, doctors, clinics, pharmacy, nursing) | Institutions de la santé (hopitaux, médecins, cliniques, pharmacies, nursing)
 Source: Overpass Queries, OpenStreetMap Database   | Source: Requêtes Overapss, Base OpenStreetMap
+OSM features included in Health tables | Objets OSM dans les tables de la Santé
 amenity IN ('doctors','clinic','hospital','pharmacy','social_facility')
-Expected Update Frequency :	Every year |  Fréquence prévue des Mise-à-jour : AnnueOSM features included in Health tables | b
+Expected Update Frequency :	Every year |  Fréquence prévue des Mise-à-jour : Annuel
 Variables that can appear in the file | Variables qui peuvent apparaitre dans le fichier
 * [amenity](http://wiki.openstreetmap.org/wiki/amenity)
 * [name](http://wiki.openstreetmap.org/wiki/name)
