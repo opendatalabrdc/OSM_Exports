@@ -3,10 +3,10 @@
 
 Preview Maps online or download data  (formats csv and geojson). | Voir cartes en ligne et télécharger données (format csv et geojson)
 
-Features | Format | Preview | Download
--------- | ------ |------- | --------
-RD-Congo POI Health Points + Polygones | CSV | [Preview](https://raw.githubusercontent.com/opendatalabrdc/OSM_Exports/rev1/osm_rd_congo_poi_health.csv) | [Download](osm_rd_congo_poi_health.csv)
-. | GeoJSON | [Preview](../master/osm_rd_congo_poi_health.geojson) | [Download](osm_rd_congo_poi_health.geojson)
+Features | Format
+-------- | ------ 
+RD-Congo POI Health Points + Polygones | [CSV](osm_rd_congo_poi_health.csv)
+. | [GeoJSON](osm_rd_congo_poi_health.geojson)
 [Source: OpenStreetMap (licence ODbL)](https://www.openstreetmap.org/copyright)
 Maintainer OSM-RDC
 
