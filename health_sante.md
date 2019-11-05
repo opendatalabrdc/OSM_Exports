@@ -11,11 +11,15 @@ Maintainer OSM-RDC
 Features | Objets
 ------------------------------------ | -------------------------------------
 Health facilities (hospital, doctors, clinics, pharmacy, nursing) | Institutions de la santé (hopitaux, médecins, cliniques, pharmacies, nursing)
-Source: Overpass Queries, OpenStreetMap Database   | Source: Requêtes Overapss, Base OpenStreetMap
+Source: Overpass Queries, OpenStreetMap Database   | Source: Requêtes Overpass, Base OpenStreetMap
 OSM features included in Health tables | Objets OSM dans les tables de la Santé
 amenity IN ('doctors','clinic','hospital','pharmacy','social_facility')
 Expected Update Frequency :	Every year |  Fréquence prévue des Mise-à-jour : Annuel
 Variables that can appear in the file | Variables qui peuvent apparaitre dans le fichier
+* lat (latitude)
+* lon (longitude)
+* osm_id (unique point id)
+* osm_way_id  (unique way id)
 * [amenity](http://wiki.openstreetmap.org/wiki/amenity)
 * [name](http://wiki.openstreetmap.org/wiki/name)
 * [name:fr](http://wiki.openstreetmap.org/wiki/name:fr)
