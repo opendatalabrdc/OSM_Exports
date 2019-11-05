@@ -1,4 +1,3 @@
 # OSM_Exports
 
-- [English](./index_en.md)
-- [Français](./index_fr.md)
+- [Documentation](./README.md)
