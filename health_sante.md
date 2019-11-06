@@ -7,6 +7,7 @@ RD-Congo POI Health Points + Polygones | [CSV](data/osm_rd_congo_poi_health.csv)
 . | [GeoJSON](data/osm_rd_congo_poi_health.geojson) | Map Preview Online
 [Source: OpenStreetMap (licence ODbL)](https://www.openstreetmap.org/copyright)
 Maintainer OSM-RDC
+Source: Overpass API, OpenStreetMap Database<br/>amenity IN ('doctors','clinic','hospital','pharmacy','social_facility')
 
 
 Features, Health facilities (hospital, doctors, clinics, pharmacy, dentist) 
@@ -15,8 +16,6 @@ Features, Health facilities (hospital, doctors, clinics, pharmacy, dentist)
 Objets, Institutions de la santé (hopitaux, médecins, cliniques, pharmacies, dentistes)
 <br/>Fréquence prévue des Mise-à-jour : lorsque nécessaire
 
-Source: Overpass API, OpenStreetMap Database
-<br/>amenity IN ('doctors','clinic','hospital','pharmacy','social_facility')
 
 Variables (Multipolygons : lat,lon=centroid)
 
