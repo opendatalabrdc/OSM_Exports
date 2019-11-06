@@ -9,11 +9,11 @@ RD-Congo POI Health Points + Polygones | [CSV](data/osm_rd_congo_poi_health.csv)
 Maintainer OSM-RDC
 
 
-* Features, Health facilities (hospital, doctors, clinics, pharmacy, dentist) 
-* Expected Update Frequency :	As necessary
+Features, Health facilities (hospital, doctors, clinics, pharmacy, dentist) 
+<br/>Expected Update Frequency :	As necessary
 
-* Objets, Institutions de la santé (hopitaux, médecins, cliniques, pharmacies, dentistes)
-* Fréquence prévue des Mise-à-jour : lorsque nécessaire
+Objets, Institutions de la santé (hopitaux, médecins, cliniques, pharmacies, dentistes)
+<br/>Fréquence prévue des Mise-à-jour : lorsque nécessaire
 
 Source: Overpass API, OpenStreetMap Database
 <br/>amenity IN ('doctors','clinic','hospital','pharmacy','social_facility')
