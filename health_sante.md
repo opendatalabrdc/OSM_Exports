@@ -8,14 +8,18 @@ RD-Congo POI Health Points + Polygones | [CSV](data/osm_rd_congo_poi_health.csv)
 [Source: OpenStreetMap (licence ODbL)](https://www.openstreetmap.org/copyright)
 Maintainer OSM-RDC
 
-Features | Objets
------------------------------------- | -------------------------------------
-Health facilities (hospital, doctors, clinics, pharmacy, nursing) | Institutions de la santé (hopitaux, médecins, cliniques, pharmacies, nursing)
-Source: Overpass Queries, OpenStreetMap Database   | Source: Requêtes Overpass, Base OpenStreetMap
-OSM features included in Health tables | Objets OSM dans les tables de la Santé
-amenity IN ('doctors','clinic','hospital','pharmacy','social_facility')
-Expected Update Frequency :	Every year |  Fréquence prévue des Mise-à-jour : Annuel
-Variables that can appear in the file | Variables qui peuvent apparaitre dans le fichier
+
+* Features, Health facilities (hospital, doctors, clinics, pharmacy, dentist) 
+* Expected Update Frequency :	As necessary
+
+* Objets, Institutions de la santé (hopitaux, médecins, cliniques, pharmacies, dentistes)
+* Fréquence prévue des Mise-à-jour : lorsque nécessaire
+
+Source: Overpass API, OpenStreetMap Database
+<br/>amenity IN ('doctors','clinic','hospital','pharmacy','social_facility')
+
+Variables (Multipolygons : lat,lon=centroid)
+
 * lat (latitude)
 * lon (longitude)
 * osm_id (unique point id)
