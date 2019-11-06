@@ -10,4 +10,4 @@ Geodata Files are available for both CSV and GeoJSON formats. The tables are str
 * [Health Facilities](health_sante.md)
 * [Education](education.md)
 
-© OpenStreetMap [licence ODbL](https://www.openstreetmap.org/copyright) OSM Data maintained by the OSM-RDC community.<br/>  *OpendatalabRDC is a [Potentiel 3.0](http://potentiel3-0.org/index.php/en/) project to support the local commmunities.*
+© OpenStreetMap [licence ODbL](https://www.openstreetmap.org/copyright) OSM Data maintained by the OSM-RDC community.<br/>  *OpendatalabRDC is a [Potentiel 3.0](http://potentiel3-0.org/index.php/en/) initiative to support the local commmunities.*
