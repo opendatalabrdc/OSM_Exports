@@ -16,7 +16,7 @@ Features, Health facilities (hospital, doctors, clinics, pharmacy, dentist)
 Objets, Institutions de la santé (hopitaux, médecins, cliniques, pharmacies, dentistes)
 <br/>Fréquence prévue des Mise-à-jour : lorsque nécessaire
 
-<script src="https://embed.github.com/view/geojson/opendatalabrdc/OSM_Exports/tests/data/osm_rd_congo_poi_health.geojson"></script>
+<script src=""https://embed.github.com/view/geojson/opendatalabrdc/OSM_Exports/tests/data/osm_rd_congo_poi_health.geojson""></script>
 
 Variables (Multipolygons : lat,lon=centroid)
 
