@@ -18,7 +18,6 @@ Objets, Institutions de la santé (hopitaux, médecins, cliniques, pharmacies, d
 
 <script src="https://embed.github.com/view/geojson/opendatalabrdc/OSM_Exports/tests/data/osm_rd_congo_poi_health.geojson"></script>
 
-
 Variables (Multipolygons : lat,lon=centroid)
 
 * lat (latitude)
